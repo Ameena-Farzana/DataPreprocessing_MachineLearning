@@ -7,7 +7,7 @@ outliers, inconsistent formatting, and noise. By performing effective data prepr
 the project aims to enhance the quality, reliability, and usefulness of the data for
 machine learning.
 
-Dataset: Employee_data.csv
+Dataset: Employee.csv
 
 ### Key Components to be fulfilled:
 #### Data Exploration: 
