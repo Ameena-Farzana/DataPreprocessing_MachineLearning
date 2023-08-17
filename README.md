@@ -13,18 +13,17 @@ Dataset: Employee.csv
 #### Data Exploration: 
 Explore the data, list down the unique values in each feature and find
 its length. Perform the statistical analysis and renaming of the columns.
-#### Data Cleaning:
-  Find the missing and inappropriate values, treat them appropriately. Remove all
-duplicate rows. Find the outliers.
-    
-    ● Replace the value 0 in age as NaN
-    ● Treat the null values in all columns using any measures(removing/ replace the
-values with mean/median/mode)
+
+#### Data Cleaning: 
+Find the missing and inappropriate values, treat them appropriately. Remove all duplicate rows. Find the outliers.
+* Replace the value 0 in age as NaN  
+* Treat the null values in all columns using any measures(removing/ replace the values with mean/median/mode)
+
 #### Data Analysis:
-    
-    ● Filter the data with age >40 and salary<5000
-    ● Plot the chart with age and salary
-    ● Count the number of people from each place and represent it visually
+* Filter the data with age >40 and salary<5000
+* Plot the chart with age and salary
+* Count the number of people from each place and represent it visually
+
 #### Data Encoding:
 Convert categorical variables into numerical representations using techniques such as
 one-hot encoding, label encoding, making them suitable for analysis by machine
